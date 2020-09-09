@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - 📫 Reach me: **ashutoshroywork@gmail.com**
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh-roy&count_private=true&&hide=stars,prs)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-roy&layout=compact&line_height=25&width=100)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-roy&layout=compact&line_height=20&width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
 

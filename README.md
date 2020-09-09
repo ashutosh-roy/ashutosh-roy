@@ -7,11 +7,11 @@
 <h4> Java, Python, Android Development, Full Stack Development, Cross Platform App Development </h4>
 
 <h2>⭐ Trivias </h2>
-- ⚙️ I use daily: `.py`, `.js`, `.xml`, '.java', `.html`, `.css`, `.csv`, `.svg`
-- 🧰 Build with: `VSCode`, `Django`, `Angular`, `Bootstrap`, `Ionic`, `AWS`,'Android Studio', `git`
-- 🌱 Learning all about **Open Source**
-- 📫 Reach me: **ashutoshroywork@gmail.com**
+<p>- ⚙️ I use daily: `.py`, `.js`, `.xml`, '.java', `.html`, `.css`, `.csv`, `.svg`</p>
+<p>- 🧰 Build with: `VSCode`, `Django`, `Angular`, `Bootstrap`, `Ionic`, `AWS`,'Android Studio', `git`</p>
+<p>- 🌱 Learning all about **Open Source**</p>
+<p>- 📫 Reach me: **ashutoshroywork@gmail.com**</p>
 
 
-[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh-roy&theme=light&show_icons=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh-roy&theme=light&show_icons=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-roy&theme=light&hide=java,css)](https://github.com/anuraghazra/github-readme-stats)

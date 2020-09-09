@@ -1,7 +1,7 @@
 ## **Hello world!** 👋
 #### I'm a Software Developer by intention and Explorer by passion who enjoys learning collaboratively
 
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/BrianRuizy) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brianruizy/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/brianruizy/) [<img src ="https://img.shields.io/badge/Portfolio-up-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://brianruizy.com/) ![Visits Badge](https://badges.pufler.dev/visits/brianruizy/brianruizy?style=for-the-badge ) 
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ashutosh-roy) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashutosh-roy-2001/)
 
 <h2>🤹 Forte </h2>
 <h4> Java, Python, Android Development, Full Stack Development, Cross Platform App Development </h4>

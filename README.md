@@ -18,17 +18,19 @@ Here are some ideas to get you started:
 
 -->
 
-<h1> **Hello World!** 👋</h1>
+<h1> Hello World! 👋</h1>
 <h4> I'm a Software Developer by intention and explorer by passion skilled in Java, Python, Android Development, Full Stack Development, Cross Platform App Development </h4>
-
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ashutosh-roy/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashutosh-roy-2001/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ashutoshroy/)
 
+ 
+<h2>💬 Ask me about ...</h2>
 
 - ⚙️ I use daily: `.py`, `.js`, `.xml`, '.java', `.html`, `.css`, `.csv`, `.svg`
 - 🧰 Build with: `VSCode`, `Django`, `Angular`, `Bootstrap`, `Ionic`, `AWS`,'Android Studio', `git`...
-- 🌱 Learning all about **Open Source**
+- 🌱 Currently learning all about **OpenSource**
 - 📫 Reach me: **ashutoshroywork@gmail.com**
+
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh-roy&count_private=true&&hide=stars,prs)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-roy&layout=compact&line_height=20&width=1000)](https://github.com/anuraghazra/github-readme-stats)

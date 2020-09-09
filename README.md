@@ -9,8 +9,8 @@
 <h2>⭐ Trivias </h2>
 <p>- ⚙️ I use daily: `.py`, `.js`, `.xml`, '.java', `.html`, `.css`, `.csv`, `.svg`</p>
 <p>- 🧰 Build with: `VSCode`, `Django`, `Angular`, `Bootstrap`, `Ionic`, `AWS`,'Android Studio', `git`</p>
-<p>- 🌱 Learning all about **Open Source**</p>
-<p>- 📫 Reach me: **ashutoshroywork@gmail.com**</p>
+<p>- 🌱 Learning all about <b>Open Source</b></p>
+<p>- 📫 Reach me: ashutoshroywork@gmail.com</p>
 
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh-roy&count_private=true&&hide=stars,prs)

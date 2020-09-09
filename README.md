@@ -1,6 +1,6 @@
 <h1> <b>Hello world! 👋</b></h2>
 <h4>I'm a Software Developer by intention and Explorer by passion who enjoys learning collaboratively.<h4>
-
+<br>
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ashutosh-roy) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashutosh-roy-2001/)
 <br>
 <h2>🤹 Forte </h2>

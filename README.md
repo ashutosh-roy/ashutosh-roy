@@ -19,13 +19,16 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hello World! 👋</h1>
-<h4> I'm a Software Developer by intention and explorer by passion skilled in Java, Python, Android Development, Full Stack Development, Cross Platform App Development </h4>
+<h4> I'm a Software Developer by intention and Explorer by passion who enjoys learning collaboratively</h4>
+<br>
+
+<h2>🤹 Forte </h2>
+<h4> Java, Python, Android Development, Full Stack Development, Cross Platform App Development </h4>
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ashutosh-roy/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashutosh-roy-2001/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ashutoshroy/)
 
- 
+ <br>
 <h2>⭐ Trivias </h2>
-
 - ⚙️ I use daily: `.py`, `.js`, `.xml`, '.java', `.html`, `.css`, `.csv`, `.svg`
 - 🧰 Build with: `VSCode`, `Django`, `Angular`, `Bootstrap`, `Ionic`, `AWS`,'Android Studio', `git`...
 - 🌱 Currently learning all about **OpenSource**

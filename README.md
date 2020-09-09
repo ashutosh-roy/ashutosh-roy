@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 
 - ⚙️ I use daily: `.py`, `.js`, `.xml`, '.java', `.html`, `.css`, `.csv`, `.svg`
-- 🧰 Build with: `VSCode`, `Django`, `Angular`, `Bootstrap`, `Ionic`, `AWS`, `git`...
+- 🧰 Build with: `VSCode`, `Django`, `Angular`, `Bootstrap`, `Ionic`, `AWS`,'Android Studio', `git`...
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: **ashutoshroywork@gmail.com**
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-roy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-roy&layout=compact&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
 
 

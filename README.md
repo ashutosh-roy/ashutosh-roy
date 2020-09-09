@@ -13,6 +13,6 @@
 <p>- 📫 Reach me: **ashutoshroywork@gmail.com**</p>
 
 
-[!Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh-roy&count_private=true&&hide=stars,prs)
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh-roy&count_private=true&&hide=stars,prs)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-roy&layout=compact&line_height=20&width=1000)](https://github.com/anuraghazra/github-readme-stats)
 

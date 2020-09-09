@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: **ashutoshroywork@gmail.com**
 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-roy&layout=compact&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh-roy&count_private=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-roy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 

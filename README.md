@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ashutosh-roy/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashutosh-roy-2001/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ashutoshroy/)
 
  
-<h2>💬 Ask me about ...</h2>
+<h2>⭐ Trivias </h2>
 
 - ⚙️ I use daily: `.py`, `.js`, `.xml`, '.java', `.html`, `.css`, `.csv`, `.svg`
 - 🧰 Build with: `VSCode`, `Django`, `Angular`, `Bootstrap`, `Ionic`, `AWS`,'Android Studio', `git`...

@@ -1,4 +1,4 @@
-<h2> **Hello world!** 👋</h2>
+<h1> <b>Hello world! 👋</b></h2>
 #### I'm a Software Developer by intention and Explorer by passion who enjoys learning collaboratively
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ashutosh-roy) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashutosh-roy-2001/)
